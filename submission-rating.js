@@ -45,7 +45,7 @@ const content = [
   ],
   [
     ['Idea endorsed by Leadership or Community of Practice'],
-    ['Idea endorsed by Department, Head of Department or Supervisor'],
+    ['Idea endorsed by Head of Department or Supervisor'],
     ['Idea newly incubated by an individual or a team'],
   ],
 ]
