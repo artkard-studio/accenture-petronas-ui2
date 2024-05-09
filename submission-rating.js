@@ -38,7 +38,7 @@ const content = [
       'Medium solution complexity',
     ],
     [
-      'Low investment required',
+      'High investment required',
       '>6 months of implementation & >6 months adoption by user',
       'High solution complexity',
     ],
